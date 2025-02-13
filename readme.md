@@ -42,9 +42,6 @@ Temperature: 31°C
 Humidity: 75%
 ```
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contributing
 Feel free to submit issues and pull requests.
 
