@@ -1,4 +1,4 @@
-    # Weather App
+# Weather App
 
 A simple Python-based weather application that fetches real-time weather data using an API key.
 
